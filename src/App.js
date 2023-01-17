@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="App">
       Productivity App 
+      Time To Code!
     </div>
   );
 }
